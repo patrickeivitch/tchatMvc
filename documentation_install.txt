@@ -1,0 +1,7 @@
+INSTALLATION MODULE TCHAT MVC
+
+1) Environnement windows - serveur wamp64
+2) Dézipper le fichier dans le repertoir www de wamp
+3) Importer le fichier sql qui se trouve dans le repertoire "scripts" dans phpmyadmin
+4) l'url à lancer est "http://localhost/tchat/web/"
+Si les projets fonctionnent avec des vhosts, alors l'url sera http://tchat/web/

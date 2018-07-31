@@ -1,0 +1,23 @@
+{
+    "name": "pkpwang",
+    "description": "Tchat en modèle MVC",
+    "version": "1.0",
+    "authors":[
+        {
+            "name": "Patrick KPWANG"            
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    
+    "require": {
+        "php": ">=5.4"
+    },
+    
+    "config": {
+        "process-timeout": 3000,
+        "bin-dir": "bin",
+        "secure-http": false        
+    }
+}
